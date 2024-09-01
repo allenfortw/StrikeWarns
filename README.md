@@ -215,9 +215,9 @@
 
 如果你在使用 **StrikeWarns** 插件时遇到问题或有改进建议，请通过以下方式与我们联系：
 
-- **GitHub 仓库**：[https://github.com/your-repo/StrikeWarns](https://github.com/your-repo/StrikeWarns)
-- **Discord 服务器**：[加入我们的 Discord](https://discord.gg/your-discord-invite)
-- **邮箱**：support@allenpixel.org
+- **GitHub 仓库**：[https://github.com/allenfortw/StrikeWarns](https://github.com/allenfortw/StrikeWarns)
+- **Discord 服务器**：[加入我们的 Discord](https://discord.gg/5pjXXRc3Ut)
+- **邮箱**：support@allenpixel.com
 
 我们欢迎所有反馈，并致力于持续改进插件功能与稳定性。
 
