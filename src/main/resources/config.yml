@@ -1,0 +1,8 @@
+discord_bot:
+  discord_Bot_Token: 'bot_token'
+
+strike_count:
+  1: 'kick %player% get strike 1'
+  2: 'kick %player% get strike 2'
+  3: 'kick %player% get strike 3'
+  max: 'ban %player% get strike 4'

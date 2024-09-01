@@ -1,0 +1,25 @@
+name: StrikeWarns
+main: org.allenpixel.strikewarns.StrikeWarns
+version: 1.0
+api-version: 1.16
+author: AllenPixel
+description: A plugin to manage and execute commands based on strike counts for players.
+
+commands:
+  strike:
+    description: Main command for StrikeWarns plugin.
+    usage: /<command> [help|add|set|reload]
+    aliases:
+      - strikes
+      - swarns
+      - swarn
+    permission: strike.admin
+
+permissions:
+  strikewarns.command.strike:
+    description: Allows access to all strike commands.
+    default: op
+
+  strike.view:
+    description: Allows players to view their own strike count.
+    default: true
